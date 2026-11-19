@@ -5,4 +5,9 @@ import os
 # Published AWS example for classroom testing.
 
 AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID")
-# LAB-DEMO-314159
+#foo-bar-123432
+#foo-bar-684334
+#foo-bar-423278
+#foo-bar-4323231
+#foo-bar-43212311
+#foo-bar-43242311
