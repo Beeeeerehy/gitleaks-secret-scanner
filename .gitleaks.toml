@@ -13,4 +13,4 @@ secretGroup = 1
 id = "classroom-demo-code"
 description = "Classroom demo code"
 path = '''(^|/)config\.py$'''
-regex = '''\bLAB-DEMO-[0-9]{6}\b'''
+regex = '''\bfoo-bar-[0-9]{6}\b'''
